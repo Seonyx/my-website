@@ -4,6 +4,4 @@ First change
 
 second change
 
-Now editing on the update-readme branch
-
-Now editing locally
+Updates made on master before rebase
