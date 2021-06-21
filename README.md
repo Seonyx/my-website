@@ -6,4 +6,5 @@ second change
 
 Updates made on master before rebase
 
-Changes prior to conflict pull
+For info this is just a readme file
+
